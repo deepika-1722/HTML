@@ -1,0 +1,46 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #ccc;
+}
+
+h2{
+    text-align: center;
+    text-decoration: double;
+    color: #3d5975
+}
+
+form{
+    background-color: rgb(56, 190, 190);
+    width: 350px;
+    padding: 20px;
+    margin: auto;
+    border: 1px solid #ccc;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea{
+    width: 100%;
+    padding:8px ;
+    border: 1px solid rgb(236, 56, 56);
+}
+input[type="radio"],
+input[type="checkbox"]{
+    margin-right: 5px;
+}
+input[type="submit"]{
+    background-color: blue;
+    color:azure;
+    border :none;
+    padding:10px;
+    width:100%;
+
+}
+
+input[typr="submit"]:hover{
+    background-color: blue;
+}
