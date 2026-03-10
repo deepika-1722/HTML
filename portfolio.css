@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header{
+    background-image: url("C:\MERN STACK\INDEX.HTML\image.jpg");
+    text-shadow: rgb(24, 18, 18);
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+}
